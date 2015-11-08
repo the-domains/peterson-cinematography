@@ -1,0 +1,23 @@
+name: Peterson Cinematography
+favicon: null
+layout_spectrum: 0.7765888788271695
+typography_spectrum: 0.9508078405633569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.771669530775398
+  lightness: 0.637349154567346
+  saturation: 0.28129798360168934
+  rhythmicContrast: 0.9060119306668639
+purpose: []
