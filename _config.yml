@@ -1,4 +1,4 @@
-name: Peterson Cinematography
+name: James Peterson Cinematography
 favicon: null
 layout_spectrum: 0.7765888788271695
 typography_spectrum: 0.9508078405633569
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#ccdbc8'
+    - '#2f261f'
+    - '#807271'
+    - '#c5a28c'
   brandStrength: 0.771669530775398
   lightness: 0.637349154567346
   saturation: 0.28129798360168934
